@@ -1,8 +1,8 @@
 # Death Swap
 
-[<img alt="spigot" src="https://lielamar.com/cdn/plugins/github_spigot.png" size=1.5>](https://www.spigotmc.org/resources/deathswap.86465/)
+[<img alt="spigot" src="https://lielamar.com/plugins/github_spigot.png" size=1.5>](https://www.spigotmc.org/resources/deathswap.86465/)
 <br>
-[<img alt="discord" src="https://lielamar.com/cdn/plugins/github_discord.png" size=1.5>](https://discord.gg/NzgBrqR)
+[<img alt="discord" src="https://lielamar.com/plugins/github_discord.png" size=1.5>](https://discord.gg/NzgBrqR)
 
 ## Information
 
